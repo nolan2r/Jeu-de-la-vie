@@ -137,11 +137,13 @@ classDiagram
     }
 
     class Regle{
+
         Regle()
         ~Regle()
     }
 
-    class Conway(){
+    class Conway{
+
         Conway()
         ~Conway()
     }
