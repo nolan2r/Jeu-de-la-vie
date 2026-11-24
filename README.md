@@ -1,4 +1,4 @@
-# POO-prosit_4
+# Jeu_De_La_Vie
 
 # Diagramme de classe
 
