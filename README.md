@@ -128,7 +128,7 @@ classDiagram
     }
 
 
-Jeu *<|--Grille
+Jeu *--Grille
 Jeu-->Mode
 Jeu-->Regle
 Mode<|--Console
